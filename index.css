@@ -1,0 +1,37 @@
+.imgIndex {
+    width: 119rem;
+}
+
+main {
+    width: 100rem;
+}
+
+main h1 {
+    margin-left: 27rem;
+    color: #e54c08;
+    font-weight: lighter;
+}
+
+main .section1 {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 19rem;
+}
+
+main .section1 p {
+    width: 20rem;
+}
+
+main .section2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80rem;
+    margin-left: 19rem;
+}
+
+main .section2 div {
+    background-color: white;
+    width: 20rem;
+    padding: 0.5rem;
+}
