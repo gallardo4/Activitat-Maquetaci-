@@ -26,6 +26,7 @@ main .section2 {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    gap: 1rem;
     width: 80rem;
     margin-left: 19rem;
 }
